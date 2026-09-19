@@ -5,7 +5,7 @@
                 {{ __('Dashboard') }}
             </h2>
             <p class="mt-1 text-sm text-gray-500 dark:text-gray-400">
-                Student Task Manager
+                Student Task Manager For All students
             </p>
         </div>
     </x-slot>
